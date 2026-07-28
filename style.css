@@ -151,3 +151,12 @@ h4 { color: #fff; margin-bottom: 8px; }
 .cert-list li strong {
     color: var(--cyan-neon);
 }
+
+/* Contenedor responsivo del Radar Chart */
+.chart-container {
+    position: relative;
+    width: 100%;
+    max-width: 550px;
+    height: 380px;
+    margin: 0 auto;
+}
