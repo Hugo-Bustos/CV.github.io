@@ -28,7 +28,7 @@ body {
     z-index: 1;
 }
 
-/* Barra de navegación superior estilo Sci-Fi */
+/* Barra de navegación superior */
 .navbar {
     position: fixed;
     top: 0;
@@ -152,7 +152,7 @@ h4 { color: #fff; margin-bottom: 8px; }
     color: var(--cyan-neon);
 }
 
-/* Contenedor responsivo del Radar Chart */
+/* Contenedor Radar Chart */
 .chart-container {
     position: relative;
     width: 100%;
